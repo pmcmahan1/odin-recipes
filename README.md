@@ -1,3 +1,3 @@
 # odin-recipes
 TOP recipe project
-Let's do it, here's the readme! I will discuss what I learned after.
+My first time using basic HTML to create new pages, input images, etc.
